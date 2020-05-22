@@ -1,2 +1,2 @@
 # Aktuelle Module
-[HAW/ISSP](HAW/ISSP)
+[HAW/ISSP](gollum/overview/HAW/ISSP/)

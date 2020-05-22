@@ -1,0 +1,1 @@
+# Mein Log fuer Aufgabe2

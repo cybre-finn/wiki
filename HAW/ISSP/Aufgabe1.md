@@ -9,3 +9,4 @@ Ich pruefe jetzt noch mal die Kurve von den ADC-Werten, die ich im zweiten Durch
 
 ## Vor Abgabe
 - Auf jeden Fall noch genaue Funktionsweise des Sensors nachschlagen; zur not in Vorlesung
+- Messunsicherheit noch mal rausfinden (evtl. in Ubahn zu Mamas Geburtstag)

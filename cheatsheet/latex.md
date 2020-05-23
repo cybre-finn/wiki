@@ -5,3 +5,4 @@
   \item Another entry in the list
 \end{itemize}
 ```
+Numeriert mit enumerate statt itemize.

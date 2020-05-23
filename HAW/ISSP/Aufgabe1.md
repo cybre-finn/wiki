@@ -6,3 +6,6 @@ Am Sensor hapert es nicht, haben wir bereits festgestellt. Woran liegts also?
     - Daran lags doch nicht, die Messwerte sind immer unter 3.3V
 
 Ich pruefe jetzt noch mal die Kurve von den ADC-Werten, die ich im zweiten Durchgang geplottet habe.
+
+## Vor Abgabe
+- Auf jeden Fall noch genaue Funktionsweise des Sensors nachschlagen; zur not in Vorlesung

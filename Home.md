@@ -7,4 +7,4 @@
 - [c](cheatsheet/c.md)
 
 # Projekte
-- [Waage](projekte/waage)
+- [Waage](projekte/Waage)

@@ -7,6 +7,7 @@
 Wenn es sich um eine uebliche Waagzelle handelt, dann ist das eine Messbruecke
 mit vier Dehnungswiderstaenden:
 [[/uploads/projekte/Waage/messbr.png]]
+
 ### ESP32
 - Datasheet: https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 - technical Reference https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf
@@ -16,3 +17,4 @@ mit vier Dehnungswiderstaenden:
 ### HX711 ADC
 - ADC: 24bit Sigma-Delta ADC
 - Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
+- Misst Differenzialspannung in der Messbruecke (s.O.).

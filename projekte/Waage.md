@@ -8,4 +8,8 @@
 - Datasheet: https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 - technical Reference https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf
 - Hat Bluetooth auf eigenem Prozessor
-- ADC: SAR (Successive Apporoximation) -> sinnvoll einfach den zu benutzen?
+- ADC: 12bit-SAR (Successive Apporoximation) -> sinnvoll einfach den zu benutzen?
+
+### HX711 ADC
+- ADC: 24bit Sigma-Delta ADC
+- Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf

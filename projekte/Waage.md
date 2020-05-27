@@ -18,3 +18,7 @@ mit vier Dehnungswiderstaenden:
 - ADC: 24bit Sigma-Delta ADC
 - Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
 - Misst Differenzialspannung in der Messbruecke (s.O.).
+
+## Design-Entscheidungen
+Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.
+Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit bei Peaks, da sich der Kondensator hier erst aufladen muesste.

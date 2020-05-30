@@ -26,3 +26,6 @@ Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit be
 Tatseachlich ist der Potentialunterschied an der Messbruecke so gering, dass wir zunaechst den HX711 nehmen muessen, weil dieser einen Operationsverstaerker eingebaut hat.
 
 Nuetzlicher Link zu Operationsverstaerkern https://predictabledesigns.com/introduction-to-load-cell-conditioning-circuits/
+## Offene Fragen
+- Was genau ist Bluetooth-Serial eigentlich?
+- Ist es sinnvoll, die uebertragung irgendwie zu schuetzen?

@@ -20,8 +20,8 @@ mit vier Dehnungswiderstaenden:
 - Misst Differenzialspannung in der Messbruecke (s.O.).
 
 ### AMS1117-3.3
-Standard-Spannungsregler.
-Datasheet http://www.advanced-monolithic.com/pdf/ds1117.pdf
+- Standard-Spannungsregler.
+- Datasheet http://www.advanced-monolithic.com/pdf/ds1117.pdf
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

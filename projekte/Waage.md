@@ -19,6 +19,10 @@ mit vier Dehnungswiderstaenden:
 - Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
 - Misst Differenzialspannung in der Messbruecke (s.O.).
 
+### AMS1117-3.3
+Standard-Spannungsregler.
+Datasheet http://www.advanced-monolithic.com/pdf/ds1117.pdf
+
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.
 Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit bei Peaks, da sich der Kondensator hier erst aufladen muesste.~~
@@ -26,6 +30,7 @@ Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit be
 Tatseachlich ist der Potentialunterschied an der Messbruecke so gering, dass wir zunaechst den HX711 nehmen muessen, weil dieser einen Operationsverstaerker eingebaut hat.
 
 Nuetzlicher Link zu Operationsverstaerkern https://predictabledesigns.com/introduction-to-load-cell-conditioning-circuits/
+
 ## Offene Fragen
 - Was genau ist Bluetooth-Serial eigentlich?
 - Ist es sinnvoll, die uebertragung irgendwie zu schuetzen?

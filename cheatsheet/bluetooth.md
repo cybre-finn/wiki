@@ -1,0 +1,2 @@
+## Erste Erkenntnisse:
+HCI: Host Controller Interface - Standardized communication between the host stack (e.g., a PC or mobile phone OS) and the controller (the Bluetooth integrated circuit (IC), erlaubt es, den Controller mit minimaler Veraenderung zu swappen

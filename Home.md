@@ -8,3 +8,6 @@
 
 # Projekte
 - [Waage](projekte/Waage)
+
+# Organisation
+- [Waage](projekte/Waage)

@@ -1,0 +1,1 @@
+Aktueller Plan: Zuerst einmal einfacher Holzofen. Dann WP nach Studium.

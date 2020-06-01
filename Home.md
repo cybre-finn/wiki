@@ -10,5 +10,5 @@
 - [Waage](projekte/Waage)
 
 # Organisation
-- [Wohnung](gollum/overview/wohnung)
+- [Wohnung](gollum/overview/lindenallee)
 - [Produktivitaet](self/produktivitaet)

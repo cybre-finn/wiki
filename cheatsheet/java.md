@@ -2,7 +2,7 @@
 
 Vorlage
 
-```JAVA
+```java
 import java.util.ArrayList;
 import static org.junit.Assert.assertEquals;
 

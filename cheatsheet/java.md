@@ -1,3 +1,12 @@
+## Zufall
+
+```java
+import java.util.Random;
+//[...]
+Random rand = new Random(); 
+int rand_int1 = rand.nextInt(1000);
+```
+
 # Junit
 
 Vorlage

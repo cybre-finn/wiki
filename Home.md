@@ -5,6 +5,7 @@
 - [ALLE](gollum/overview/cheatsheet)
 - [bash](cheatsheet/bash.md)
 - [c](cheatsheet/c.md)
+- [java](cheatsheet/java.md)
 
 # Projekte
 - [Waage](projekte/Waage)

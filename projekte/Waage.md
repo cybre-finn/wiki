@@ -27,9 +27,11 @@ mit vier Dehnungswiderstaenden:
 - Standard-Operationsverstaerker.
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm324-n.pdf)
 - Herausgefunden muss werden: Was ist $$Rf$$ fuer unsere Messbruecke?
+- Dabei habe ich rausgefunden: $$\delta$$ ist der Faktor -1, um den sich R
+  maximal veraendert, wenn R sich wegen Zug oder druck veraendert. Vergroessert
+  sich R bei zweit Tonnen etwa um 1.42, dann $$\delta=0.42$$
 
-  [[/uploads/projekte/Waage/messbr-opamp.png]]
-- Ausserdem ist der Wert von $$\delta$$ nicht bekannt, von diesem haengt Rf ab.
+[[/uploads/projekte/Waage/messbr-opamp.png]]\
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

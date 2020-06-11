@@ -26,6 +26,10 @@ mit vier Dehnungswiderstaenden:
 ### LM324N
 - Standard-Operationsverstaerker.
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm324-n.pdf)
+- Herausgefunden muss werden: Was ist $$Rf$$ fuer unsere Messbruecke?
+
+  [[/uploads/projekte/Waage/messbr-opamp.png]]
+- Ausserdem ist der Wert von $$\delta$$ nicht bekannt, von diesem haengt Rf ab.
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

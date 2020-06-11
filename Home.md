@@ -1,7 +1,7 @@
 # Aktuelle Module
 - [HAW/ISSP](gollum/overview/HAW/ISSP/)
-- [HAW/ISSP](gollum/overview/HAW/BSP/)
-- [HAW/ISSP](gollum/overview/HAW/ADP/)
+- [HAW/BSP](gollum/overview/HAW/BSP/)
+- [HAW/ADP](gollum/overview/HAW/ADP/)
 
 # Cheatsheets
 - [ALLE](gollum/overview/cheatsheet)

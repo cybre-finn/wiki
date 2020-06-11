@@ -30,7 +30,7 @@ mit vier Dehnungswiderstaenden:
 - Dabei habe ich rausgefunden: $$\delta$$ ist der Faktor -1, um den sich R
   maximal veraendert, wenn R sich wegen Zug oder druck veraendert. Vergroessert
   sich R bei zweit Tonnen etwa um 1.42, dann $$\delta=0.42$$
-- Eine Moeglichkeit der Messung von $$\delta$$ waere, wieder was an die Waage zu haengen und entweder direkt den Widerstand zu Messen oder die Spannung, um dann den Widerstand zu Messen. $$\delta_Testgewicht$$ ist dann ja die Differenz zum unbelasteten Wert -1.
+- Eine Moeglichkeit der Messung von $$\delta$$ waere, wieder was an die Waage zu haengen und entweder direkt den Widerstand zu Messen oder die Spannung, um dann den Widerstand zu Messen. $$\delta_Testgewicht=R_unbelastet/R_Testgewicht-1$$.
 
 [[/uploads/projekte/Waage/messbr-opamp.png]]\
 

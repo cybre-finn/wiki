@@ -27,7 +27,7 @@ mit vier Dehnungswiderstaenden:
 - Standard-Operationsverstaerker.
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm324-n.pdf)
 - Herausgefunden muss werden: Was ist $$Rf$$ fuer unsere Messbruecke?
-- Dabei habe ich rausgefunden: $$\delta$$ ist der Faktor -1, um den sich R
+- Dabei habe ich rausgefunden: $$\delta$$ ist der Faktor minus 1, um den sich R
   maximal veraendert, wenn R sich wegen Zug oder druck veraendert. Vergroessert
   sich R bei zweit Tonnen etwa um 1.42, dann $$\delta=0.42$$
 - Eine Moeglichkeit der Messung von $$\delta$$ waere, wieder was an die Waage zu haengen und entweder direkt den Widerstand zu Messen oder die Spannung, um dann den Widerstand zu Messen. $$\delta_{Testgewicht}=R_{unbelastet}/R_{Testgewicht}-1$$. Oder?

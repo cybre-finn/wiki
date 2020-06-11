@@ -12,4 +12,4 @@
 
 # Organisation
 - [Wohnung](gollum/overview/lindenallee)
-- [Produktivitaet](self/produktivitaet)
+- [Produktivitaet](self/Produktivitaet)

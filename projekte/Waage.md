@@ -1,8 +1,6 @@
 ## Hardware
 
 ## Jobs fuer gesunde Prokrastination:
-- Messbruecke berechnen (das delta und damit die Rf-Widerstaende)
-  - dabei hilft evtl. die VL MS (in der HAW-Cloud)
 - Platine zusammenstecken
 - Arduino-Programm raufladen und mal die ausgabe vom ADC angucken
 

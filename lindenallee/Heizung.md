@@ -8,4 +8,4 @@ Der Schornsteinfeger sagt er macht das mit jedem Ofen vom Baumarkt.
 
 ## Offene Fragen
 - Was ist mit dieser Trockenbauwand?
-- Gibts noch andere thermische Massen als Wasser? Der Schornsteinfeger sagt, das koennte Problematisch werden.
+- Gibts noch andere thermische Massen als Wasser? Der Schornsteinfeger sagt, das koennte problematisch werden.

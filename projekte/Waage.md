@@ -53,7 +53,14 @@ Spannungsabfall am Spannungsteiler mit dem auf 2T belasteten Dehnungswiderstand 
 
 Fuer unbelasteten Spannungsteiler gilt: $$V_{out}=\frac{R_2}{R_1+R_2}*V_{in}$$.
 
-Umgestellt nach $$R_2$$: $$R_2 = R_1 \cdot \frac{1}  {\left({\frac{V_\mathrm{in}}{V_\mathrm{out}}-1}\right)}$$.
+Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
+
+Wir legen mal fest: $$U_{in}:=1V$$
+Beim rechten Spannungsteiler mit festen Widerstaenden
+faellt dann eine Spannung von 0.5V ab ($$U_o=0.5*V_i$$ bei gleichen Widerstaenden).
+Daher ist unser $$V_{out}:=0.502V$$, damit wir auf die korrekte Brueckenspannung von 2mV kommen.
+
+Also: $$350\Omega * \frac{1}{({\frac{1V}{0.502V}-1})}=352.8112\Omega$$.
 
 
 

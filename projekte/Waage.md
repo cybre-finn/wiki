@@ -67,7 +67,17 @@ Folglich: $$\delta:=350/352.8112-1=0.00803$$
 
 Nun zur Formel auf der Grafik aus dem Datasheet (s.O.)...
 
-Wir suchen Rf: $$R_f=\frac{2V_{out}*R}{\delta * V_{REF}}$$
+Wir suchen Rf, also umstellen: $$R_f=\frac{2V_{out}*R}{\delta * V_{REF}}$$.
+
+Vout ist am besten 3.3V.
+
+Vref kann man mit zwei Werten mal berechnen, einmal zum Testmessen mit 14V (kurz vorm Maximum der Waage)
+und einmal mit 3.3V fuer die Anwendung direkt auf dem Board. Ggf packen wir da noch eine andere Exitation Voltage fuer mehr Genaugigkeit rein, dann brauchts aber einen weiteren Spannungsregler.
+
+| Vref | Rf |
+|------|----|
+| 14V  | $$\frac{2*3.3V*350\Omega}{0.00803*14}=20548\Omega$$|
+| 3.3V |
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

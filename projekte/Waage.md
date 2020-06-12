@@ -39,7 +39,8 @@ mit vier Dehnungswiderstaenden:
 - Dabei habe ich rausgefunden: $$\delta$$ ist der Faktor minus 1, um den sich R
   maximal veraendert, wenn R sich wegen Zug oder druck veraendert. Vergroessert
   sich R bei zweit Tonnen etwa um 1.42, dann $$\delta=0.42$$
-- Eine Moeglichkeit der Messung von $$\delta$$ waere, wieder was an die Waage zu haengen und entweder direkt den Widerstand zu Messen oder die Spannung, um dann den Widerstand zu Messen. $$\delta_{Testgewicht}=R_{unbelastet}/R_{Testgewicht}-1$$. Oder?
+- ~~Eine Moeglichkeit der Messung von $$\delta$$ waere, wieder was an die Waage zu haengen und entweder direkt den Widerstand zu Messen oder die Spannung, um dann den Widerstand zu Messen. $$\delta_{Testgewicht}=R_{Testgewicht}/R_{unbelastet}-1$$.~~
+- Mithilfe der Daten aus aufgefundenen Datasheet der Waage kann Rf auch genau berechnet werden.
 
 [[/uploads/projekte/Waage/messbr-opamp.png]]\
 
@@ -76,8 +77,8 @@ und einmal mit 3.3V fuer die Anwendung direkt auf dem Board. Ggf packen wir da n
 
 | Vref | Rf |
 |------|----|
-| 14V  | $$\frac{2*3.3V*350\Omega}{0.00803*14}=20548\Omega$$|
-| 3.3V |
+| 3.3V | $$\frac{2*3.3V*350\Omega}{0.00803*3.3}=87173\Omega$$ |
+| 14V  | $$\frac{2*3.3V*350\Omega}{0.00803*14}=20548\Omega$$ |
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

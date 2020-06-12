@@ -9,6 +9,8 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 
 ## Schnellhilfe
 - Laufen gehen funktioniert relativ haeufig, moeglichst schnell und erschoepfend.
+- Keine sinnlosen Zeitvertreibe machen, sondern wenn es schon sein muss, etwas
+  wirklich sinnvolles, siehe Projekte.
 
 # Studium
 - [Services](HAW/Services)

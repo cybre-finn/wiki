@@ -56,13 +56,18 @@ Fuer unbelasteten Spannungsteiler gilt: $$V_{out}=\frac{R_2}{R_1+R_2}*V_{in}$$.
 Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
 
 Wir legen mal fest: $$U_{in}:=1V$$
+
 Beim rechten Spannungsteiler mit festen Widerstaenden
 faellt dann eine Spannung von 0.5V ab ($$U_o=0.5*V_i$$ bei gleichen Widerstaenden).
 Daher ist unser $$V_{out}:=0.502V$$, damit wir auf die korrekte Brueckenspannung von 2mV kommen.
 
 Also: $$350\Omega * \frac{1}{({\frac{1V}{0.502V}-1})}=352.8112\Omega$$.
 
+Folglich: $$\delta:=350/352.8112-1=0.00803$$
 
+Nun zur Formel auf der Grafik aus dem Datasheet (s.O.)...
+
+Wir suchen Rf: $$R_f=\frac{2V_{out}*R}{\delta * V_{REF}}$$
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

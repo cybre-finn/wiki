@@ -28,6 +28,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [java](cheatsheet/java.md)
 
 # Projekte
+- [ALLE](gollum/overview/projekte)
 - [Waage](projekte/Waage)
 
 # Organisation

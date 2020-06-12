@@ -50,7 +50,7 @@ Bei symmetrischer Bruecke gilt mit $$R_1=R_2=R_3=R_4=R$$ $$R_{Quellwiderstand}=R
 
 Also hat jeder der Widerstaende bei Nullast $$350\Omega$$ (siehe Datasheet).
 
-Spannungsabfall am Spannungsteiler mit dem auf 2T belasteten Dehnungswiderstand ist laut Datasheet $$~2mV/V$$ (rated output). Das kommt hin, wenn ich mich an die Waage haenge, dann misst das Multimeter 0,1mV.
+Spannungsabfall am Spannungsteiler mit dem auf 2T belasteten Dehnungswiderstand ist laut Datasheet $$~2mV/V$$ (rated output). Das kommt hin, wenn ich mich an die Waage haenge, dann misst das Multimeter 0,1mV bei irgendwas um 10V Eingangsspannung.
 
 Fuer unbelasteten Spannungsteiler gilt: $$V_{out}=\frac{R_2}{R_1+R_2}*V_{in}$$.
 

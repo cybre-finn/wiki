@@ -15,6 +15,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 
 # Studium
 - [Services](HAW/Services)
+- [Services](HAW/Services)
 
 ## Aktuelle Module
 - [HAW/ISSP](gollum/overview/HAW/ISSP/)

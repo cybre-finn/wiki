@@ -44,7 +44,7 @@ mit vier Dehnungswiderstaenden:
 
 ### Berechnung Rf
 Die Waage wird als symmetrische Bruecke bei Nullast ausgeliefert.
-Bei symmetrischer Bruecke gilt mit $$R_1=R_2=R_3=R_4=R$$ $$R_{Quellwiderstand}=R$$.
+Bei symmetrischer Bruecke gilt mit $$R_1=R_2=R_3=R_4=R$$ die Gleichung $$R_{Quellwiderstand}=R$$ .
 
 Also hat jeder der Widerstaende bei Nullast $$350\Omega$$ (siehe Datasheet).
 

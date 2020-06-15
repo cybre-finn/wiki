@@ -26,6 +26,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [ALLE](gollum/overview/cheatsheet)
 - [bash](cheatsheet/bash.md)
 - [c](cheatsheet/c.md)
+- [git](cheatsheet/git.md)
 - [java](cheatsheet/java.md)
 
 # Projekte

@@ -44,7 +44,6 @@ Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
 ### LM324N
 - Standard-Operationsverstaerker.
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm324-n.pdf)
-- Herausgefunden muss werden: Was ist $$Rf$$ fuer unsere Messbruecke?
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

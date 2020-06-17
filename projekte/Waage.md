@@ -94,4 +94,4 @@ Stand 11.06 ist ein Opamp vorhanden. Mal gucken.
 - Ist es sinnvoll, die uebertragung irgendwie zu schuetzen?
 
 ## Sonstige Takeaways
-- Wenn man in einer Whetonschen Messbruecke versucht einzelne Widerstaende zu messen, indem man mit dem Multimter an zwei Kabeln misst, dann misst man nicht nur diesen Widerstand, sondern auch die drei anderen, die ja quasi parallel mit dem einzelnen in der Messbruecke verschaltet sind. Damit ist der Widerstand geringer, als der Einzelwiderstand. Der Einzelwiderstand ist uebrigens genau der Gesamtwiderstand, wenn alle Einzelwiderstaende gleich sind.
+- Wenn man in einer Whetonschen Messbruecke versucht einzelne Widerstaende zu messen, indem man mit dem Multimter an zwei Kabeln misst, dann misst man nicht nur diesen Widerstand, sondern auch die drei anderen, die ja quasi parallel mit dem einzelnen in der Messbruecke verschaltet sind. Damit ist der Widerstand geringer, als der Einzelwiderstand. Der Einzelwiderstand ist uebrigens genau der Gesamtwiderstand (gemessen an den beiden Stellen, wo beide Messpunkte gleich weit "entfernt sind"), wenn alle Einzelwiderstaende gleich sind.

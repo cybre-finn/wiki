@@ -44,6 +44,14 @@ Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
 ### LM324N
 - Standard-Operationsverstaerker.
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm324-n.pdf)
+Aus 3 der Dinger kann man einen Instrumentenverstärker (Impamp bauen)
+
+Im Datasheet findet sich da ein Aufbau dazu. $$R_2$$ muss eingestellt werden (siehe Formel Datasheet).
+
+Umgestellt nach R2:
+$$R_2=\frac{2*R_1*(V_2-V_1)}{V_o-1}$$
+
+Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor berechnet werden.
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

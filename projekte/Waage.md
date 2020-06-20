@@ -53,6 +53,11 @@ $$R_2=\frac{2*R_1*(V_2-V_1)}{V_o-1}$$
 
 Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor berechnet werden.
 
+## ina128P
+- Instrumentenverstaerker
+- [Datasheet](https://www.ti.com/lit/ds/symlink/ina128.pdf)
+- Im Prinzip bestehend aus 3 Opamps
+
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.
 Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit bei Peaks, da sich der Kondensator hier erst aufladen muesste.~~

@@ -53,7 +53,7 @@ $$R_2=\frac{2*R_1*(V_2-V_1)}{V_o-1}$$
 
 Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor berechnet werden.
 
-## ina128P
+### ina128P
 - Instrumentenverstaerker
 - [Datasheet](https://www.ti.com/lit/ds/symlink/ina128.pdf)
 - Im Prinzip bestehend aus 3 Opamps

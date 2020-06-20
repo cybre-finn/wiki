@@ -60,11 +60,11 @@ Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor ber
 
 Laut Datasheet berechnet sich der Gain wie folgt: $$g = 1 + 50 k\Omega /R_g$$.
 
-Bei 2mV/V Querspannung bei Vollast sind das bei 12V 24mV. $$g:= 3.3V/12mV=137.5$$.
+Bei 2mV/V Querspannung bei Vollast sind das bei 10V 20mV. $$g:= 3.3V/20mV=165$$.
 
 Obige Formel nach $$R_g$$ umgestellt: $$R_g=\frac{50000\Omega}{g-1}$$.
 
-$$R_{g12v}:= \frac{50000}{137.5-1}=366.300\Omega$$.
+$$R_{g10v}:= \frac{50000}{165-1}=304.87\Omega$$.
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

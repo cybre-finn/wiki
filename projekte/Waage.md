@@ -64,7 +64,7 @@ Bei 2mV/V Querspannung bei Vollast sind das bei 12V 24mV. $$g:= 3.3V/12mV=137.5$
 
 Obige Formel nach $$R_g$$ umgestellt: $$R_g=\frac{50000\Omega}{g-1}$$.
 
-$$R_{g12v}:= \frac{50000}{137.5-1}=366.300\Omega$$
+$$R_{g12v}:= \frac{50000}{137.5-1}=366.300\Omega$$.
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

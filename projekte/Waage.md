@@ -57,6 +57,7 @@ Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor ber
 - Instrumentenverstaerker
 - [Datasheet](https://www.ti.com/lit/ds/symlink/ina128.pdf)
 - Im Prinzip bestehend aus 3 Opamps
+Laut Datasheet berechnet sich der Gain wie folgt: $$g = 1 + 50 k\Omega /R_g$$
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

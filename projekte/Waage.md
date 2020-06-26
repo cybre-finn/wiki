@@ -54,7 +54,7 @@ Aus 3 der Dinger kann man einen Instrumentenverstärker (Impamp bauen)
 
 Im Datasheet findet sich da ein Aufbau dazu. $$R_2$$ muss eingestellt werden (siehe Formel Datasheet).
 
-Umgestellt nach R2:
+Umgestellt nach R2 (Gain-Resistor):
 $$R_2=\frac{2*R_1*(V_2-V_1)}{V_o-1}$$
 
 Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor berechnet werden.

@@ -39,7 +39,13 @@ Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
 
 ### AMS1117-3.3
 - Standard-Spannungsregler.
+- Auf Board als Spannungsversorgung fuer ESP8266
 - Datasheet http://www.advanced-monolithic.com/pdf/ds1117.pdf
+
+### LM317
+- Datasheet: https://www.ti.com/lit/ds/symlink/lm317.pdf
+- [Ein Rechner](https://circuitdigest.com/calculators/lm317-resistor-voltage-calculator) liefert die Werte fuer den Spannungsteiler.
+- In diesem Fall bei R1=100R R2=700 sind es genau 10V.
 
 ### LM324N
 - Standard-Operationsverstaerker.
@@ -52,19 +58,18 @@ Umgestellt nach R2:
 $$R_2=\frac{2*R_1*(V_2-V_1)}{V_o-1}$$
 
 Dazu muss natürlich die Differenzspannung bei Vollauslastung (V2-V1 ) zuvor berechnet werden.
+Bei 10V betraegt diese 20mV.
 
-### ina128P
+$$R2:= \frac{2*1000000\Omega *0.020V}{3.3-1}=1739.13\Omega$$.
+
+### INA122
 - Instrumentenverstaerker
-- [Datasheet](https://www.ti.com/lit/ds/symlink/ina128.pdf)
-- Im Prinzip bestehend aus 3 Opamps
-
-Laut Datasheet berechnet sich der Gain wie folgt: $$g = 1 + 50 k\Omega /R_g$$.
-
-Bei 2mV/V Querspannung bei Vollast sind das bei 10V 20mV. $$g:= 3.3V/20mV=165$$.
-
-Obige Formel nach $$R_g$$ umgestellt: $$R_g=\frac{50000\Omega}{g-1}$$.
-
-$$R_{g10v}:= \frac{50000}{165-1}=304.87\Omega$$.
+- [Datasheet](https://www.ti.com/lit/ds/symlink/ina122.pdf)
+- Gain kann mit $$R_g$$ eingestellt werden
+- Bei 2mV/V Querspannung bei Vollast betraegt der Gain bei 10V 20mV. $$g:= 3.3V/20mV=165$$.
+- Formel aus Datasheet: $$Gain=5+\frac{200k\Omega}{R_g}$$.
+- Umgestellt nach R_g: $$R_g=\frac{200K\Omega}{Gain-5}$$.
+- $$R_g:= \frac{200K\Omega}{165-5}=1.25K\Omega$$.
 
 ## Design-Entscheidungen
 ~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

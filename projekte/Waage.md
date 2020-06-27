@@ -71,15 +71,10 @@ $$R2:= \frac{2*1000000\Omega *0.020V}{3.3-1}=1739.13\Omega$$.
 - $$R_g:= \frac{200K\Omega}{165-5}=1.25K\Omega$$.
 
 ## Design-Entscheidungen
-~~Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.
-Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit bei Peaks, da sich der Kondensator hier erst aufladen muesste.~~
+Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.
+Eines der Probleme des HX711 ist allerdings die eventuell grosse Unsicherheit bei Peaks, da sich der Kondensator hier erst aufladen muesste.
 
-Tatseachlich ist der Potentialunterschied an der Messbruecke so gering, dass wir zunaechst den HX711 nehmen muessen, weil dieser einen Operationsverstaerker eingebaut hat.
-
-Nuetzlicher Link zu Operationsverstaerkern https://predictabledesigns.com/introduction-to-load-cell-conditioning-circuits/
-
-Stand 11.06 ist ein Opamp vorhanden. Mal gucken.
-
+Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerker oder ein LM324N-4fach-Operationsverstaerker, aus dem dann zur Verstaerkung des Signals ein Inamp gebaut wird.
 
 ## Offene Fragen
 - Was genau ist Bluetooth-Serial eigentlich?
@@ -87,3 +82,4 @@ Stand 11.06 ist ein Opamp vorhanden. Mal gucken.
 
 ## Sonstige Takeaways
 - Wenn man in einer Whetonschen Messbruecke versucht einzelne Widerstaende zu messen, indem man mit dem Multimter an zwei Kabeln misst, dann misst man nicht nur diesen Widerstand, sondern auch die drei anderen, die ja quasi parallel mit dem einzelnen in der Messbruecke verschaltet sind. Damit ist der Widerstand geringer, als der Einzelwiderstand. Der Einzelwiderstand ist uebrigens genau der Gesamtwiderstand (gemessen an den beiden Stellen, wo beide Messpunkte gleich weit "entfernt sind"), wenn alle Einzelwiderstaende gleich sind.
+- Es gibt Single-Supply und Dual Supply-Opamps und Inamps. Der Unterschied besteht scheinbar meist darin, ob der Referenzpin problemlos auf die selbe Masse wie die Opamp-Versorgungsspannung gelegt werden kann oder nicht. In unserem Fall muss es ein Single-Supply-Geraet sein, weil die Spannungsversorgung ueber ein Batteriegeraet laeuft und nicht getrennt ist.

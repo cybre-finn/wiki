@@ -1,9 +1,5 @@
 ## Hardware
 
-## Jobs fuer gesunde Prokrastination:
-- Platine zusammenstecken
-- Arduino-Programm raufladen und mal die ausgabe vom ADC angucken
-
 ### Waagzelle PSD-S1 (2000KG)
 -  ~~[Datasheet von baugleicher oder aehnlicher Waage](https://cdn.sparkfun.com/assets/parts/1/2/2/3/8/TAS501.pdf)~~
 - [Datasheet(lokal)](/uploads/projekte/Waage/061004354176.jpg) und beim

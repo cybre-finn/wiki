@@ -46,9 +46,12 @@ Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
 ### LM324N
 - Standard-Operationsverstaerker.
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm324-n.pdf)
-Aus 3 der Dinger kann man einen Instrumentenverstärker (Impamp bauen)
+Aus 3 der Dinger kann man einen Instrumentenverstärker (Impamp bauen).
 
 Im Datasheet findet sich da ein Aufbau dazu. $$R_2$$ muss eingestellt werden (siehe Formel Datasheet).
+**Wichtig ist hierbei, dass im Fall unserer Waage die beiden Eingaenge des Opamps ganz rechts vertauscht werden muessen, sonst gleichen sich die Gains Gegenseitig aus (als andersrum als auf folgendem Bild).**
+
+[[/uploads/projekte/Waage/Screenshot_2020-06-27 LMx24-N, LM2902-N Low-Power, Quad-Operational Amplifiers datasheet (Rev D) - lm324-n pdf.png]]
 
 Umgestellt nach R2 (Gain-Resistor):
 $$R_2=\frac{2*R_1*(V_2-V_1)}{V_o-1}$$

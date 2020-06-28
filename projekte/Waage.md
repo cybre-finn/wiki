@@ -1,5 +1,12 @@
 ## Hardware
 
+## Status
+Warten auf
+- Platinen
+- Batteriehalter
+- INA122
+- Japan Steckverbinder
+
 ### Waagzelle PSD-S1 (2000KG)
 -  ~~[Datasheet von baugleicher oder aehnlicher Waage](https://cdn.sparkfun.com/assets/parts/1/2/2/3/8/TAS501.pdf)~~
 - [Datasheet(lokal)](/uploads/projekte/Waage/061004354176.jpg) und beim

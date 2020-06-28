@@ -27,6 +27,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [ALLE](gollum/overview/projekte)
 - [Waage](projekte/Waage)
 - [Standing Desk](projekte/StandingDesk)
+- [Kanban-App](projekte/KanbanApp)
 
 # Organisation
 - [Wohnung](gollum/overview/lindenallee)

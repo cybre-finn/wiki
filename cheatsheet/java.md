@@ -1,3 +1,6 @@
+## Ternärer Conditional-Opertator
+Expression (Bedingung) ? Expression (true) : Expression (false)
+
 ## Zufall
 
 ```java

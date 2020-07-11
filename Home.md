@@ -22,6 +22,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [c](cheatsheet/c.md)
 - [git](cheatsheet/git.md)
 - [java](cheatsheet/java.md)
+- [flutter](cheatsheet/flutter.md)
 
 # Projekte
 - [ALLE](gollum/overview/projekte)

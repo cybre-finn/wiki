@@ -24,3 +24,6 @@ Eine leuchtende Nasa-Badge, die Blinkt, wenn die ISS zu sehen ist.
 - Nennspannung $$U_f = ~1.8V$$
 - Nennstrom $$A = ~20mA$$
 - Widerstand bei 3.3V: $$75\Omega$$
+
+PZT3904 Transistor für LEDs
+ 

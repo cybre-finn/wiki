@@ -26,4 +26,4 @@ Eine leuchtende Nasa-Badge, die Blinkt, wenn die ISS zu sehen ist.
 - Widerstand bei 3.3V: $$75\Omega$$
 
 PZT3904 Transistor für LEDs
-- 1.5K Widerstand vor Basis
+- 1.5K Widerstand vor Basis bei 5 LEDs parallel mit je einem Widerstand

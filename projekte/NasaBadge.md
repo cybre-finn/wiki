@@ -14,6 +14,6 @@ Eine leuchtende Nasa-Badge, die Blinkt, wenn die ISS zu sehen ist.
 - [Transistor auswählen](https://www.baldengineer.com/the-best-4-transistors-to-keep-in-your-parts-kit.html)
 
 0605 Rote LED von Aliexpress:
--  $$U_f = ~1.8V$$
--  $$A = ~20mA$$
+-  $$U_f = ~1.8V$$ 
+-  $$A = ~20mA$$ 
 - Widerstand bei 3.3V: $$75\Omega$$

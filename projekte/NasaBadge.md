@@ -38,3 +38,4 @@ PZT3904 Transistor für LEDs
 - LEDs, Transistoren, USB-C Buchsen kaufen
 - Buttons für Reset, Programm mode und Custom
 - JST-Buchse für Akku
+- CU-Keepout für Sterne

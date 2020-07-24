@@ -15,6 +15,11 @@ Eine leuchtende Nasa-Badge, die Blinkt, wenn die ISS zu sehen ist.
 - **[0603 rote LEDS](https://www.aliexpress.com/item/32886268527.html?spm=a2g0s.9042311.0.0.9b824c4dOkheNj)**
 - **0805 Widerstände**
 - evtl. **[QuectelL80-R](https://www.quectel.com/UploadFile/Product/Quectel_L80-R_GPS_Specification_V1.2.pdf)**
+- weisse LEDs für die Sterne
+- [MCP738312-Laderegler](https://cdn.sparkfun.com/assets/learn_tutorials/6/9/5/MCP738312.pdf)
+- AMS1117-3.3 Regulator
+- USB-C Buchse
+- Ferrit SMD
 
 ## LED ansteuern
 - [Anleitung](https://www.dummies.com/programming/electronics/components/electronics-components-use-a-transistor-as-a-switch/)
@@ -27,3 +32,9 @@ Eine leuchtende Nasa-Badge, die Blinkt, wenn die ISS zu sehen ist.
 
 PZT3904 Transistor für LEDs
 - 1.5K Widerstand vor Basis bei 5 LEDs parallel mit je einem Widerstand
+
+## TODO
+- Laderegler: Ladestrom korrekt einstellen
+- LEDs, Transistoren, USB-C Buchsen kaufen
+- Buttons für Reset, Programm mode und Custom
+- JST-Buchse für 

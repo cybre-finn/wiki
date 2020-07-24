@@ -37,4 +37,4 @@ PZT3904 Transistor für LEDs
 - Laderegler: Ladestrom korrekt einstellen
 - LEDs, Transistoren, USB-C Buchsen kaufen
 - Buttons für Reset, Programm mode und Custom
-- JST-Buchse für 
+- JST-Buchse für Akku

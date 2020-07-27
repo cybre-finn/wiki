@@ -34,6 +34,7 @@ PZT3904 Transistor für LEDs
 - 1.5K Widerstand vor Basis bei 5 LEDs parallel mit je einem Widerstand
 
 ## TODO
+- Programming mode
 - LEDs, Transistoren, USB-C Buchsen kaufen
 - Buttons für Reset, Programm mode und Custom
 - JST-Buchse für Akku

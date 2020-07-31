@@ -90,3 +90,18 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 ## Sonstige Takeaways
 - Wenn man in einer Whetonschen Messbruecke versucht einzelne Widerstaende zu messen, indem man mit dem Multimter an zwei Kabeln misst, dann misst man nicht nur diesen Widerstand, sondern auch die drei anderen, die ja quasi parallel mit dem einzelnen in der Messbruecke verschaltet sind. Damit ist der Widerstand geringer, als der Einzelwiderstand. Der Einzelwiderstand ist uebrigens genau der Gesamtwiderstand (gemessen an den beiden Stellen, wo beide Messpunkte gleich weit "entfernt sind"), wenn alle Einzelwiderstaende gleich sind.
 - Es gibt Single-Supply und Dual Supply-Opamps und Inamps. Der Unterschied besteht scheinbar meist darin, ob der Referenzpin problemlos auf die selbe Masse wie die Opamp-Versorgungsspannung gelegt werden kann oder nicht. In unserem Fall muss es ein Single-Supply-Geraet sein, weil die Spannungsversorgung ueber ein Batteriegeraet laeuft und nicht getrennt ist.
+
+## v0.1
+- Fehler sind schon während Fertigung aufgefallen, Fertigung rechtzeitig abgebrochen, Ersatz durch v0.2
+
+## v0.2
+- Auslesevariante LM324 hat nicht gut funktioniert, genauere Evaluation wird aus zeitgründen nicht erhoben
+- INA122 hatte eigenartig grosses Offset
+- ADC1 wird vom Radio gebraucht und stand für INA122 nicht zur Verfügung. Hotfix mit Kabel zu einem ADC2-Pin
+- ADC aktiv im Bereich 0-1V und nicht 0-3.3V
+
+## v0.3
+### Vorüberlegungen
+- zweiter Versuch mit HX711
+- INA122-Pads bleiben, aber zu ADC2
+- LM324 kommt weg

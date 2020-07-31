@@ -107,6 +107,9 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 - INA122-Pads bleiben, aber zu ADC2
 - LM324 kommt weg
 
+## v0.3a
+- mal nur mit HX711 streng nach Datasheet
+
 weitere TODO:
 - HX711 aufbauen
 - INA122 auf korrekten Gain einstellen

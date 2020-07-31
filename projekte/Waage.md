@@ -117,3 +117,6 @@ weitere TODO:
 - Beschriftung und Logo updaten
 - Später beim Debugging auf jeden Fall noch mal Prüfen ob Polung am Waagenstecker korrekt
 - Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht
+
+Kaufen: 
+- 0.2uF Tantalum cap 0805

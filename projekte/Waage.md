@@ -112,3 +112,4 @@ weitere TODO:
 - INA122 auf korrekten Gain einstellen
 - Mehr Debuggingpoints
 - Beschriftung und Logo updaten
+- Später beim Debugging auf jeden Fall noch mal Prüfen ob Polung am Waagenstecker korrekt

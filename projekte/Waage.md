@@ -72,10 +72,11 @@ $$R2:= \frac{2*1000000\Omega *0.020V}{3.3-1}=1739.13\Omega$$.
 - Instrumentenverstaerker
 - [Datasheet](https://www.ti.com/lit/ds/symlink/ina122.pdf)
 - Gain kann mit $$R_g$$ eingestellt werden
-- Bei 2mV/V Querspannung bei Vollast betraegt der Gain bei 10V 20mV. $$g:= 3.3V/20mV=165$$.
+- Errinerung: ADC-Wertebereich: 0-1V
+- Bei 2mV/V Querspannung bei Vollast betraegt der Gain bei 10V 20mV. $$g:= 1V/20mV=50$$.
 - Formel aus Datasheet: $$Gain=5+\frac{200k\Omega}{R_g}$$.
 - Umgestellt nach R_g: $$R_g=\frac{200K\Omega}{Gain-5}$$.
-- $$R_g:= \frac{200K\Omega}{165-5}=1.25K\Omega$$.
+- $$R_g:= \frac{200K\Omega}{50-5}=4.4444K\Omega$$.
 
 ## Design-Entscheidungen
 Es scheint sinnvoller zu sein, den SAR zu nehmen, da dieser trotz geringerer Aufloesung mehr Samples/S liefert. Die Samples sind hier bei kompletter Ausnutzung der Breite etwa 0,5 Meter breit. Bei dem 24-Bit ADC vom HX711 waere das sehr viel besser.

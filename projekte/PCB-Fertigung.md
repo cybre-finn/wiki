@@ -15,6 +15,7 @@ Doppelseit laminierte Kupferplatten kann man unter dem WOrt "CCL" kaufen
 ### Drilling
 - CNC-Fräse
 - Lässt sich der Bohrerwechsel automatisieren?
+  - Das ist eine extrem gute Idee, man könnte ein "Magazin" am Bett festschrauben und daneben eine Arretierstation, die mithilfe eines Servos den Spanner betätigt. Alles in 3D-Druck.
 
 ### Via connection
 - PCB rivets
@@ -26,7 +27,7 @@ Doppelseit laminierte Kupferplatten kann man unter dem WOrt "CCL" kaufen
 - Gibts in China günstig
 - Ist UV-Farbe
 - UV-Licht kann ich selbst basteln
-- Bedruckte Folie für stellen ohne Lack muss jedes mal hergestellt werden -> deshalb Kupferplatten am besten direkt in A4 kaufen
+- Bedruckte Folie für stellen ohne Lack muss jedes mal hergestellt werden -> deshalb Kupferplatten am besten direkt in A4/A5 kaufen
 
 ### Silk Screen
 - Vorerst unwichtig
@@ -36,5 +37,5 @@ Doppelseit laminierte Kupferplatten kann man unter dem WOrt "CCL" kaufen
 - mit Sollbruchstellen
 
 ## Wichtige Fragen
-Können auch grosse nicht plane areas mit CNC-Methode gefräst werden]
+Können auch grosse nicht plane areas mit CNC-Methode gefräst werden
 - ja

@@ -1,11 +1,7 @@
-## Hardware
-
+[[_TOC_]]
+# Hardware
 ## Status
-Warten auf
-- Platinen
-- Batteriehalter
-- INA122
-- Japan Steckverbinder
+Prototyp 0.3a mit HX711 scheint vernünftig zu funktionieren. Software muss geschrieben werden.
 
 ### Waagzelle PSD-S1 (2000KG)
 -  ~~[Datasheet von baugleicher oder aehnlicher Waage](https://cdn.sparkfun.com/assets/parts/1/2/2/3/8/TAS501.pdf)~~
@@ -110,13 +106,13 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 ## v0.3a
 - mal nur mit HX711 streng nach Datasheet
 
+### Ergebnis
+gutes Ergbnis, HX711 macht Readouts,
+ABER die Beinchen vom internen Transistor am Spannungsregler sind leider vertauscht.
+
 weitere TODO:
-- HX711 aufbauen
-- INA122 auf korrekten Gain einstellen
-- Mehr Debuggingpoints
-- Beschriftung und Logo updaten
-- Später beim Debugging auf jeden Fall noch mal Prüfen ob Polung am Waagenstecker korrekt
 - Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht
 
-Kaufen: 
-- 0.2uF Tantalum cap 0805
+# Software
+## Embedded
+Erstmal mit Arduino-Framework, bis man da auf Probleme stösst.

@@ -36,6 +36,14 @@ Umgestellt nach $$R_2$$: $$R_2 = R_1 * \frac{1}{({\frac{V_{in}}{V_{out}}-1})}$$.
 - Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
 - Misst Differenzialspannung in der Messbruecke (s.O.).
 
+#### Der richtige Gain
+Die Zelle hat bei Vollauslastung eine Differenzspannung von $$2mV/V$$
+Bei 3.3V ist demnach DiffSpannung bei $$6.6mV$$.
+
+Das Datasheet (Seite 1) kann so interpretiert werden, dass bei einer Differenzspannung von 20mV
+und einem Gain von 128 die Ausgabe $$2^{24-1}-1$$ ist.
+Das ergibt sich aus der Tatsache, dass wir einen 24Bit-ADC haben, der aber auch negative Zahlen ausgeben kann (und die Null vom 2er-Komplement fällt weg). 
+
 ### AMS1117-3.3
 - Standard-Spannungsregler.
 - Auf Board als Spannungsversorgung fuer ESP8266

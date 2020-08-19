@@ -47,6 +47,9 @@ Das ergibt sich aus der Tatsache, dass wir einen 24Bit-ADC haben, der aber auch 
 Der Umrechnungsfaktor zu Kilogramm aus den Rohwerten ist demnach: 
 $$\frac{1}{(\frac{6.6mV}{20mV}*(2^{24-1}-1))/2000kg}=0.000722481$$
 
+In der Realität passt aber besser folgendes besser auf die gemessenen Gewichte:
+$$\frac{1}{(\frac{6.6mV}{20mV}*(2^{24-1}-1))/2000kg}=0.000361240$$
+
 ### AMS1117-3.3
 - Standard-Spannungsregler.
 - Auf Board als Spannungsversorgung fuer ESP8266

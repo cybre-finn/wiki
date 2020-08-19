@@ -127,6 +127,11 @@ ABER
 * Der Tare-Button liegt auf dem Pin 35. Weil Pin 31-39  aber keinen internenen Interrupt hat, war das nichts für Interrupts.
 * Ein 3.3V-Trace fehlt noch
 
+Für nächste Version
+* ggf noch bessere Stromversorgung als den neuen Spannungsregler
+* Abschaltung akku bei geringer Spannung
+* USB-C-Ladeteil
+
 weitere TODO:
 - Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht
 

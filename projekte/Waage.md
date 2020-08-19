@@ -122,7 +122,10 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 
 ### Ergebnis
 gutes Ergbnis, HX711 macht Readouts,
-ABER die Beinchen vom internen Transistor am Spannungsregler sind leider vertauscht.
+ABER 
+* die Beinchen vom internen Transistor am Spannungsregler sind leider vertauscht.
+* Der Tare-Button liegt auf dem Pin 35. Weil Pin 31-39  aber keinen internenen Interrupt hat, war das nichts für Interrupts.
+* Ein 3.3V-Trace fehlt noch
 
 weitere TODO:
 - Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht

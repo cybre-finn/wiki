@@ -45,7 +45,7 @@ und einem Gain von 128 die Ausgabe $$2^{24-1}-1$$ ist.
 Das ergibt sich aus der Tatsache, dass wir einen 24Bit-ADC haben, der aber auch negative Zahlen ausgeben kann (und die Null vom 2er-Komplement fällt weg).
 
 Der Umrechnungsfaktor zu Kilogramm aus den Rohwerten ist demnach: 
-$$(frac{6.6mV}{20mV}*(2^{24-1}-1))/2000kg=1384.1201$$
+$$(frac{1}{frac{6.6mV}{20mV}*(2^{24-1}-1))/2000kg}=0.000722481$$
 
 ### AMS1117-3.3
 - Standard-Spannungsregler.

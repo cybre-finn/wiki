@@ -50,6 +50,9 @@ $$\frac{1}{(\frac{6.6mV}{20mV}*(2^{24-1}-1))/2000kg}=0.000722481$$
 In der Realität passt aber besser folgendes besser auf die gemessenen Gewichte:
 $$\frac{1}{(\frac{6.6mV}{20mV}*(2^{24-1}-1))/1000kg}=0.000361240$$
 
+Der Umrechnungsfaktor a aus einer Vorhandenen Messung mit einer Kalibrierten Waage und Rohwerten d aus dem HX711:
+$$a=frac{m_{Kalibriert}}{d_{Cyberscale}}$$
+
 ### AMS1117-3.3
 - Standard-Spannungsregler.
 - Auf Board als Spannungsversorgung fuer ESP8266

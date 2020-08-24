@@ -12,8 +12,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [Aufgaben loesen](Aufgaben_loesen)
 
 ## Aktuelle Module
-- [HAW/ISSP](gollum/overview/HAW/ISSP/)
-- [HAW/BSP](gollum/overview/HAW/BSP/)
+- [HAW/BSP](gollum/overview/HAW/AA/)
 - [HAW/ADP](gollum/overview/HAW/ADP/)
 
 # Cheatsheets

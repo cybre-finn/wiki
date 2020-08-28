@@ -123,6 +123,9 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 ## v0.3a
 - mal nur mit HX711 streng nach Datasheet
 
+## v0.3a
+- mal nur mit HX711 streng nach Datasheet
+
 ### Ergebnis
 gutes Ergbnis, HX711 macht Readouts,
 ABER 

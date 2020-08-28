@@ -123,9 +123,6 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 ## v0.3a
 - mal nur mit HX711 streng nach Datasheet
 
-## v0.3a
-- mal nur mit HX711 streng nach Datasheet
-
 ### Ergebnis
 gutes Ergbnis, HX711 macht Readouts,
 ABER 
@@ -140,6 +137,26 @@ Für nächste Version
 
 weitere TODO:
 - Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht
+
+### Gehäuse
+3D-Druck aus einem generischen openSCAD-Template für Gehäuse.
+
+## v0.4
+Übernimmt den 0.3a-Branch.
+- Probeversion von v1.0
+- HX711
+- Soll in Alu-Gehäuse
+
+### Gehäuse
+- Zweiteilig, Stärke insgesamt 12mm, 40mm Breite, Länge noch unklar.
+- Aus Alu gefräst: [Profil 40x6mm](https://www.motedis.com/shop/Halbzeuge/Leichtmetall-Profile-nicht-eloxiert/Flachstange/Flachstange-nicht-eloxiert-40x6mm::1518.html)
+- Wände ca. 3-4 mm
+- Dadurch maximale Platinenbreite 32mm
+- Glasfenster wird Objektträger für Mikroskope (24x76x1mm).
+- Glasfenster für OLEDs und ESP-Antenne ist dann mit Lebensmittelfarbe oder [Glasmalstiften](https://www.amazon.de/Marabu-0125000000084-Porzellanmalstifte-sp%C3%BClmaschinenfest-Universalspitze/dp/B06ZYLMDX2/) für Kinder zu tönen, damit nur das eingeschaltete Display sichtbar ist.
+- wird direkt mit Waage via Hohlschraube im (dann ehem. Kabelausgang) verschraubt. Dazwischen eine breite Mutter als Abstandshalter um Messfehler durch ungleichen Verzug des Gehäuses zu verhindern.
+- Kabel durch Hohlschraube führen
+- In Gehäuse ist winziges T oder L-Profil um das verdrehen zu verhindern. Durch Schraube in zusammengebautem Gehäuse arretiert.
 
 # Software
 ## Embedded

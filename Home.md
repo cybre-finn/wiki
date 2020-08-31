@@ -7,6 +7,8 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - Keine sinnlosen Zeitvertreibe machen, sondern wenn es schon sein muss, etwas
   wirklich sinnvolles, siehe Projekte.
 
+Iqos hotline 0800 111 47 67
+
 # Studium
 - [Services](HAW/Services)
 - [Aufgaben loesen](Aufgaben_loesen)

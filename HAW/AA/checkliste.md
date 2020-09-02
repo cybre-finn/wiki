@@ -10,3 +10,5 @@
 | 8  | Anwendung der Integralrechnung        | [ ]     | [ ]        | [ ]  | [ ]      | 59     |
 | 9  | Fourier-Reihen                        | [ ]     | [ ]        | [ ]  | [ ]      | 24     |
 | 10 | Fourier-Transformationen              | [ ]     | [ ]        | [ ]  | [ ]      | 66     |
+
+- Im Kapitel 2 sind noch die geometrischen Deutungen interessant.

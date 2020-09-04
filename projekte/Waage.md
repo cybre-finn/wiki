@@ -161,3 +161,7 @@ weitere TODO:
 # Software
 ## Embedded
 Erstmal mit Arduino-Framework, bis man da auf Probleme stösst.
+
+# Fabrik
+- tschechischer PCB-Höker: https://www.plosnaky.cz/
+- JLCPCB ist bisher am billigsten

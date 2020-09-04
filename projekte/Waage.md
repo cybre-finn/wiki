@@ -127,16 +127,17 @@ Aktueller Ansatz auf dem Testboard ist entweder ein INA122 Instrumentenverstaerk
 gutes Ergbnis, HX711 macht Readouts,
 ABER 
 * die Beinchen vom internen Transistor am Spannungsregler sind leider vertauscht.
-* Der Tare-Button liegt auf dem Pin 35. Weil Pin 31-39  aber keinen internenen Interrupt hat, war das nichts für Interrupts.
-* Ein 3.3V-Trace fehlt noch
+* ~~Der Tare-Button liegt auf dem Pin 35. Weil Pin 31-39  aber keinen internenen Interrupt hat, war das nichts für Interrupts.~~
+* ~~Ein 3.3V-Trace fehlt noch~~ eh neues Layout
 
 Für nächste Version
-* ggf noch bessere Stromversorgung als den neuen Spannungsregler
+* ~~ggf noch bessere Stromversorgung als den neuen Spannungsregler~~
 * Abschaltung akku bei geringer Spannung
-* USB-C-Ladeteil
+  - wird UVLO genannt
+* ~~USB-C-Ladeteil~~
 
 weitere TODO:
-- Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht
+- ~~Pin 9 und 10 beim Hx711 Smbol sind evtl. vertaucht~~ Datasheet sagt nein
 
 ### Gehäuse
 3D-Druck aus einem generischen openSCAD-Template für Gehäuse.

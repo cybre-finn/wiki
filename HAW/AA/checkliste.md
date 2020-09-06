@@ -1,7 +1,7 @@
 | #  | Kapitel                               | gelesen | Cheatsheet | Anki | Aufgaben | Seiten |
 |----|---------------------------------------|---------|------------|------|----------|--------|
 | 1  | Grundlegende Zahlenmengen             | [x]     | [x]        | [ ]  | [x]      | 19     |
-| 2  | Komplexe Zahlen                       | [x]     | [ ]        | [ ]  | [ ]      | 29     |
+| 2  | Komplexe Zahlen                       | [x]     | [x]        | [ ]  | [ ]      | 29     |
 | 3  | Folgen und Reihen                     | [ ]     | [ ]        | [ ]  | [ ]      | 70     |
 | 4  | Differentialrechnung                  | [ ]     | [ ]        | [ ]  | [ ]      | 54     |
 | 5  | Anwendung der Differentialrechnung    | [ ]     | [ ]        | [ ]  | [ ]      | 62     |

@@ -166,3 +166,24 @@ Erstmal mit Arduino-Framework, bis man da auf Probleme stösst.
 # Fabrik
 - tschechischer PCB-Höker: https://www.plosnaky.cz/
 - JLCPCB ist bisher am billigsten
+
+# Kosten
+Wenn nicht explizit angegeben inkl. Versand
+| Teil | Kosten/Waage (€) |
+|------|--------|
+|ESP32-WROOM|2.00|
+|Zellen(3x)|~100.00|
+|Steckverbinder|2.00|
+|PCB|11.00|
+|Div. Widerstände, Taster, Kondensatoren etc...|4.00|
+|HX711|0.70|
+|Laderegler|0.30|
+|Lipo|2.50|
+|Spannungsregler|0.30|
+|USB-C Buchse|0.50|
+|Versandkosten Distributor|10.00|
+|Display|5.00|
+|Glasscheibe|3.00|
+|Alugehäuse (nur Alu)|16.00|
+|Glasmalstifte|10.00|
+|gesamt|167,3|

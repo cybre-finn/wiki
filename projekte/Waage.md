@@ -169,8 +169,9 @@ Erstmal mit Arduino-Framework, bis man da auf Probleme stösst.
 
 # Kosten
 Wenn nicht explizit angegeben inkl. Versand
+
 | Teil | Kosten/Waage (€) |
-|------|--------|
+| ------ | -------- |
 |ESP32-WROOM|2.00|
 |Zellen(3x)|~100.00|
 |Steckverbinder|2.00|

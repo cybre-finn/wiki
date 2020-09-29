@@ -1,12 +1,6 @@
 **Bevor du es vergisst: Das naechste Semester muss besser vorbereitet werden.**
 Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 
-# Prokrastination
-- Laufen gehen funktioniert relativ haeufig, moeglichst schnell und erschoepfend.
-- Irgendwelche Ideen einfach hier rein schreiben und dann gut sein lassen.
-- Keine sinnlosen Zeitvertreibe machen, sondern wenn es schon sein muss, etwas
-  wirklich sinnvolles, siehe Projekte.
-
 # Studium
 - [Services](HAW/Services)
 - [Aufgaben loesen](Aufgaben_loesen)

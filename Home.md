@@ -25,3 +25,4 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 # Organisation
 - [Wohnung](gollum/overview/lindenallee)
 - [Produktivitaet](self/Produktivitaet)
+- [Freizeitaktivitäten](self/Freizeitaktivitäten)

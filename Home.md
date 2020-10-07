@@ -2,12 +2,11 @@
 Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 
 # Studium
+- [Semester4](HAW/Semester4)
 - [Services](HAW/Services)
 - [Aufgaben loesen](Aufgaben_loesen)
 
 ## Aktuelle Module
-- [HAW/AA](gollum/overview/HAW/AA/)
-- [HAW/ADP](gollum/overview/HAW/ADP/)
 
 # Cheatsheets
 - [ALLE](gollum/overview/cheatsheet)

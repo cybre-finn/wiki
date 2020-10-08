@@ -1,7 +1,27 @@
-Vorlesungsbeginn: 12 Oktober 2020
+Vorlesungsbeginn: 12 Oktober 2020 (42. KW)
 
-Im 4. Semester muss folgendes erledigt werden:
+[Modulhandbuch](https://www.haw-hamburg.de/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informatik/Modulhandbuch_BA_ITS_2018.pdf)
+
+## Stundenpläne
+- Sem 2 [[https://www.haw-hamburg.de/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf]]
+- Sem 3 [[https://www.haw-hamburg.de/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf]]
+- Sem 4 [[https://www.haw-hamburg.de/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf]]
+
+## Im 4. Semester muss folgendes erledigt werden
+- AA 
+    - FS: 2
+    - Prof: FRDR
+    - Arbeitsaufwand: 36 Std. Vorlesung, 12 Std. Übung, 132 Std. Eigenarbeit/Selbststudium
+    - erste VL in Präsenz
 - Signalverarbeitung und Stochastik
-- Ggf dieser Einstieg in Computer engineering
+    - FS: 3
+    - Prof: Meisel, Andreas
+    - Arbeitausaufwand: 36 Std. Vorlesung, 12 Std. Übung, 132 Std. Eigenarbeit/Selbststudium
 - Software Engineering I
-- Embedded System Engineering
+    - FS: 3
+    - Prof: Pilgrim, Jens von
+    - Arbeitsaufwand: 36 Std. Vorlesung, 12 Std. Praktikum, 132 Std. Eigenarbeit/Selbststudium
+- Rechnernetze
+    - FS: 4
+    - Prof: Dreibholz, Thomas 
+    - Arbeitsaufwand: 36 Std. Vorlesung, 12 Std. Praktikum, 132 Std. Eigenarbeit/Selbststudium

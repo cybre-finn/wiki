@@ -25,3 +25,6 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [Wohnung](gollum/overview/lindenallee)
 - [Produktivitaet](self/Produktivitaet)
 - [Freizeitaktivitäten](self/Freizeitaktivitäten)
+
+# Infrastruktur
+- [Backup](self/Backup)

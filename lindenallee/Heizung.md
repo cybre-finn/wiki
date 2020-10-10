@@ -8,6 +8,7 @@ Ebay: In der Merkliste
 Im Bad muss noch Sensor für das Unterbrechen der Stromversorgung zum Lüfter eingebaut werden.
 - 50€ https://www.idealo.de/preisvergleich/OffersOfProduct/3531193_-kds-110-schabus.html
 - 42€ https://www.idealo.de/preisvergleich/OffersOfProduct/2124961_-kds-116-schabus.html
+- https://www.idealo.de/preisvergleich/OffersOfProduct/3148848_-etr61np-230v-fk-eltako.html
 
 ## Einbau
 Der Schornsteinfeger sagt er macht das mit jedem Ofen vom Baumarkt.

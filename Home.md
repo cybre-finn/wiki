@@ -7,6 +7,10 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 - [Aufgaben loesen](Aufgaben_loesen)
 
 ## Aktuelle Module
+- [AA](/gollum/overview/HAW/AA/)
+- [SE1](/gollum/overview/HAW/SE1/)
+- [SS](/gollum/overview/HAW/SS/)
+- [RN](/gollum/overview/HAW/RN/)
 
 # Cheatsheets
 - [ALLE](gollum/overview/cheatsheet)

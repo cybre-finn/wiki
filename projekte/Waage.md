@@ -147,8 +147,10 @@ weitere TODO:
 - Probeversion von v1.0
 - HX711
 - Soll in Alu-Gehäuse
+    - 4.0*2.5*1.2
 
 ### Gehäuse
+- Hier nur Ideen, siehe Versionen oben
 - Zweiteilig, Stärke insgesamt 12mm, 40mm Breite, Länge noch unklar.
 - Aus Alu gefräst: [Profil 40x6mm](https://www.motedis.com/shop/Halbzeuge/Leichtmetall-Profile-nicht-eloxiert/Flachstange/Flachstange-nicht-eloxiert-40x6mm::1518.html)
 - Wände ca. 3-4 mm

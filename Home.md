@@ -22,7 +22,7 @@ Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
 
 # Projekte
 - [ALLE](gollum/overview/projekte)
-- [ALLE](gollum/overview/projekte)
+- [Ideen](gollum/overview/ideen)
 - [Waage](projekte/Waage)
 - [BrotherReverse](projekte/brother)
 

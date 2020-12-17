@@ -9,6 +9,6 @@
 ## Mehrere Tage
 
 
-## grosses Projekt
+## Großes Projekt
 - Remarkable-App für Ankikarten aus Slides
 - customized HUD-Brille

@@ -4,6 +4,10 @@ Aktueller Plan: Zuerst einmal einfacher Holzofen. Dann WP nach Studium.
 Ich sammle folgend die Links zu Oefen.
 Ebay: In der Merkliste
 
+## Stand 
+Kamin muss noch geöffnet werden...
+Idee: Eigene Kaminkamera bauen.
+
 # Abluft
 Im Bad muss noch Sensor für das Unterbrechen der Stromversorgung zum Lüfter eingebaut werden.
 - 50€ https://www.idealo.de/preisvergleich/OffersOfProduct/3531193_-kds-110-schabus.html

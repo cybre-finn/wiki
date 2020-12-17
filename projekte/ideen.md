@@ -12,3 +12,4 @@
 ## Großes Projekt
 - Remarkable-App für Ankikarten aus Slides
 - customized HUD-Brille
+    - subsurface laser engraving für das Prisma (falls ich eins baue)

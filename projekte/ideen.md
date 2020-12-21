@@ -13,7 +13,7 @@
 - Remarkable-App für Ankikarten aus Slides
 - customized HUD-Brille
     - subsurface laser engraving für das Prisma (falls ich eins baue)
-    - 
+    - https://www.alibaba.com/product-detail/Wholesales-blank-K9-crystal-cube-for_60353879694.html?spm=a2700.pc_countrysearch.main07.3.57522421BGEhQQ
 - Unkonzentriertheit/Prokrastination mit EEG automatisch erkennen und Feedback geben (Bildschirm aus, blinkendes "du prokrastinierst" overlay)
     - Prokrastination kann man vllt definieren mit unkonzentriertheit UND gleichzeitiger "Instant Graftification" in regelmäßigen Abständen UND eventuell regelmäßiger Räue, dass man nichts getan hat.
     - Nächste Frage: Kann man diese 2-3 Dinge mit dem EEG messen?

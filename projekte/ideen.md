@@ -16,6 +16,7 @@
     - https://www.alibaba.com/product-detail/Wholesales-blank-K9-crystal-cube-for_60353879694.html?spm=a2700.pc_countrysearch.main07.3.57522421BGEhQQ
     - Andere Glasses https://www.youtube.com/watch?v=KUs7ZH5uWl4
     - Brille scheint als Reflektionsfläche schon zu reichen, aber ggf braucht man nen "echten" projektor.
+        - hier sowas suchen wie "calculate projector lens" oder "diy projector"
 - Unkonzentriertheit/Prokrastination mit EEG automatisch erkennen und Feedback geben (Bildschirm aus, blinkendes "du prokrastinierst" overlay)
     - Prokrastination kann man vllt definieren mit unkonzentriertheit UND gleichzeitiger "Instant Graftification" in regelmäßigen Abständen UND eventuell regelmäßiger Räue, dass man nichts getan hat.
     - Nächste Frage: Kann man diese 2-3 Dinge mit dem EEG messen?

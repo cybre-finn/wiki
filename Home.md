@@ -1,6 +1,3 @@
-**Bevor du es vergisst: Das naechste Semester muss besser vorbereitet werden.**
-Deshalb muessen noch Sektionen wie Semester4 gepflegt werden. Und zwar zeitnah!
-
 # Studium
 - [Semester4](HAW/Semester4)
 - [Services](HAW/Services)

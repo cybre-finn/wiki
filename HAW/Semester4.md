@@ -4,6 +4,7 @@ Vorlesungsbeginn: 12 Oktober 2020 (42. KW)
 
 ## Todo bis Klausuren
 |Vorlesung|#|Aufzeichnung|Gelesen|Anki-Karten|
+|---|---|---|---|---|
 |Rechnernetze|1|||
 |Rechnernetze|2|||
 |Rechnernetze|3|||

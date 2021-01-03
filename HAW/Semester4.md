@@ -3,6 +3,7 @@ Vorlesungsbeginn: 12 Oktober 2020 (42. KW)
 [Modulhandbuch](https://www.haw-hamburg.de/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informatik/Modulhandbuch_BA_ITS_2018.pdf)
 
 ## Todo bis Klausuren
+
 |Vorlesung|#|Aufzeichnung|Gelesen|Anki-Karten|
 |---|---|---|---|---|
 |Rechnernetze|1|||

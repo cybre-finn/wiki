@@ -1,2 +1,2 @@
 - Bill Herd Hackaday High side switch
-- 
+- FTDI Chips

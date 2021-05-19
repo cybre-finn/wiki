@@ -1,4 +1,5 @@
 # Studium
+- [Auslandsaufenthalt](HAW/Auslandsaufenthalt)
 - [Semester4](HAW/Semester4)
 - [Services](HAW/Services)
 - [Aufgaben loesen](Aufgaben_loesen)

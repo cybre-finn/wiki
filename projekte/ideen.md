@@ -10,6 +10,9 @@
 
 
 ## Großes Projekt
+- autonome Züge, die auf Feldbahnen fahren
+- Warencontainer für Metrobahnen und Trams.
+  - Autonome Container, die auf Tramtracks fahren.
 - Remarkable-App für Ankikarten aus Slides
 - customized HUD-Brille
     - subsurface laser engraving für das Prisma (falls ich eins baue)

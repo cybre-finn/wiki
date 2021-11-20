@@ -10,7 +10,11 @@
 
 
 ## Großes Projekt
-- autonome Züge, die auf Feldbahnen fahren
+- autonome Züge, die auf Feldbahnen und narrow gauge fahren
+  - Tests wären möglich
+    - ... auf den Lorenbahnen der Halligen
+    - ... oder auf einer hiervon: https://de.wikipedia.org/wiki/Liste_von_Schmalspurbahnen
+    - ... oder zu finden über osm https://www.openrailwaymap.org/
 - Warencontainer für Metrobahnen und Trams.
   - Autonome Container, die auf Tramtracks fahren.
 - Remarkable-App für Ankikarten aus Slides

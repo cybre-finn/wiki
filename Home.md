@@ -1,3 +1,6 @@
+# Urlaub
+- [Bikepacking22](urlaub/bikepacking22)
+
 # Studium
 - [Auslandsaufenthalt](HAW/Auslandsaufenthalt)
 - [Semester4](HAW/Semester4)

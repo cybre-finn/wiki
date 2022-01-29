@@ -35,6 +35,7 @@ Der Großteil der Tour verläuft durch Frankreich. Im ländlichen Raum verstehen
 ## Vorbedingunen
 - [ ] Die Omikron-Variante hat sich beruhigt, EU bereisbar
 - [ ] Sondersprint Cyberscale ist fertig
+- [ ] Mit Joana im Harz gewesen
 
 ## Erledigungen
 - [ ] Reparatur bzw. Wartung erster Umwerfer

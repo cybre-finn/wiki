@@ -13,7 +13,7 @@ Grundsätzlich gehe ich von zwei Tagen ohne Wasserzufuhr aus, für einen weitere
 
 Falls nicht in Gaststätten oder Hotels übernachtet wird, ist mindestens alle drei Tage ein besuch in einem Restaurant vorgesehen. Allein um Wasser aufzufüllen und eine lokale Mahlzeit zu verköstigen und die Akkus zu laden. Ggf. gibt es in größeren Ortschaften Waschsalons.
 
-Es werden für den Weg vor allem Nussmischungne und Müslirigel eingepackt und nach möglichkeit vor Ort nachgekauft. Die typischen französischen Hypermärkte bieten aber auch eine kulinarisch abwechslungsreiche Option für ein Baguette/Käse-Frühstück aus der Hand.
+Es werden für den Weg vor allem Nussmischungne und Müsliriegel eingepackt und nach möglichkeit vor Ort nachgekauft. Die typischen französischen Hypermärkte bieten aber auch eine kulinarisch abwechslungsreiche Option für ein Baguette/Käse-Frühstück aus der Hand.
 
 # Übernachten&Versorgung
 Vorraussichtlich mindestens jede vierte Nacht wird nach Wetter und Gemütslage eine Nacht im Gasthaus nötig. Dort ist Kleidung zu reinigen, Wasser aufzufüllen und Akkus zu laden.
@@ -52,7 +52,7 @@ Der Großteil der Tour verläuft durch Frankreich. Im ländlichen Raum verstehen
 - [ ] 2x Rahmenflaschen
 
 ## init. Nahrung&Wasser
-- [ ] Müslirigel
+- [ ] Müsliriegel
 - [ ] Nussbags
 - [ ] yfood (?)
 

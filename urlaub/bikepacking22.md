@@ -50,7 +50,8 @@ Für größere Notfälle existiert keine Planung. Bei Naturkatastrophen, politis
 
 ## Medizinisches Gepäck
 - [ ] Medkit
-- [ ]
+  - [ ] Aspirin
+- [ ] Medikinet
 
 ## sonstige Packliste
 - [ ] Badehose

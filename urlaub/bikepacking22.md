@@ -38,8 +38,8 @@ Der Großteil der Tour verläuft durch Frankreich. Im ländlichen Raum verstehen
 - [ ] Mit Joana im Harz gewesen
 
 ## Erledigungen
-- [ ] Reparatur bzw. Wartung erster Umwerfer
-- [ ] Marble sein Netbook abluchsen
+- [x] Reparatur bzw. Wartung erster Umwerfer
+- [x] Marble sein Netbook abluchsen
 - [ ] Handyfotos auf NAS übertragen, um Speicher frei zu haben
 
 ## Taschen
@@ -50,7 +50,7 @@ Der Großteil der Tour verläuft durch Frankreich. Im ländlichen Raum verstehen
 
 ## Ausrüstung
 - [x] Gravelbike
-- [ ] 2x Rahmenflaschen
+- [x] 2x Rahmenflaschen
 
 ## init. Nahrung&Wasser
 - [ ] Müsliriegel
@@ -65,6 +65,9 @@ Der Großteil der Tour verläuft durch Frankreich. Im ländlichen Raum verstehen
 ## sonstige Packliste
 - [ ] Badehose
 - [ ] Kulturtasche
+  - [ ] Zahnbürste
+  - [ ] Zahnpasta
+  - [ ] Shampoo
 - [ ] Telefon
 - [ ] Schlafsack (neu und kleiner? Wie groß ist aktueller? Ausreichend?)
 - [ ] Isomatte (neue kleine? Alte verkaufen?)

@@ -61,6 +61,7 @@ Der Großteil der Tour verläuft durch Frankreich. Im ländlichen Raum verstehen
 - [ ] Medkit
   - [ ] Aspirin
 - [ ] Medikinet
+- [ ] Sonnencreme
 
 ## sonstige Packliste
 - [ ] Badehose
